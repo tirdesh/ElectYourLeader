@@ -1,0 +1,18 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore local Hardhat cache
+.cache/
+
+# Ignore Hardhat artifacts and compiled contracts
+artifacts/
+
+# Ignore local Hardhat network configuration file
+network.json
+
+# Ignore local Hardhat environment file
+.env
+
+# Ignore any other environment-specific or generated files
+*.log
+*.pid

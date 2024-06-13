@@ -1,0 +1,27 @@
+# Dependency directories
+node_modules/
+
+# Environment variables
+.env
+
+# Editor and IDE files
+.vscode/
+.idea/
+
+# Build output
+/build/
+/dist/
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Ignore any sensitive or generated files not intended for version control
+# sensitive_file.txt
+
+# Ignore npm/yarn lock files if not using workspaces
+# package-lock.json
+# yarn.lock
