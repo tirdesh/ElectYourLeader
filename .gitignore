@@ -22,7 +22,6 @@ node_modules/
 Thumbs.db
 
 # Optional: TypeScript build output (if using TypeScript)
-*.js
 *.d.ts
 
 # Ignore package-lock.json if using Yarn
