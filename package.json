@@ -23,5 +23,8 @@
     "mongoose": "^8.4.1",
     "redis": "^4.6.14",
     "typescript": "^5.4.5"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.4"
   }
 }
