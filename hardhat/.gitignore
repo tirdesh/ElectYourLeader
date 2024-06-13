@@ -3,6 +3,7 @@ node_modules/
 
 # Ignore local Hardhat cache
 .cache/
+cache
 
 # Ignore Hardhat artifacts and compiled contracts
 artifacts/
